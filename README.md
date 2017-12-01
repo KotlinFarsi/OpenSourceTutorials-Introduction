@@ -1,2 +1,2 @@
-# ost-introduction
-Introduction Talks on Kotlin (Open Source Tutorials)
+# OpenSourceTutorials-Introduction
+Introduction talks about Kotlin Lang (Open Source Tutorials)
