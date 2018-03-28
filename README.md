@@ -4,7 +4,7 @@
 
 Pages of [Introduction to Kotlin Programming](https://kotlinfarsi.com/course/learning-kotlin-intro/)
 
-Kotlin 1.0 was released in February 2016, and since that time it’s been embraced by developers around the world, especially those within the Android community. This course provides an easy introduction to this open source programming language that covers the basics and showcases the language’s interoperability with Java and the JVM platform. A key feature of Kotlin is its similarity to Java, C#, and JavaScript. If you’re familiar with any of these languages, says expert trainer Hadi Hariri, take this course and you’ll understand Kotlin on day one.
+Kotlin 1.0 was released in February 2016, and since that time it’s been embraced by developers around the world, especially those within the Android community. This course provides an easy introduction to this open source programming language that covers the basics and showcases the language’s interoperability with Java and the JVM platform. A key feature of Kotlin is its similarity to Java, C#, and JavaScript. If you’re familiar with any of these languages, take this course and you’ll understand Kotlin on day one.
 
 This tutorial provided based on [O'Reilly Videos](http://shop.oreilly.com/product/0636920052982.do)
 
