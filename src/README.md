@@ -12,6 +12,8 @@
 
 [2.1 ) آشنایی با JVM](https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/tree/master/src/introduction-to-jvm/README.md)
 
+[2.2 ) نصب کردن ابزارآلات](https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/tree/master/src/installing-the-tooling/README.md)
+
 
 
 <بقیه فصل ها در حال تبدیل به فایل های Markdown است>
