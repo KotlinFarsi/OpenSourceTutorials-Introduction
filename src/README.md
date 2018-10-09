@@ -8,4 +8,4 @@
 
 [1.2 ) چرا کاتلین؟](https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/tree/master/src/why-kotlin/README.md)
 
-<بقیه فصل ها در حال ترجمه است>
+<بقیه فصل ها در حال تبدیل به فایل های Markdown است>
