@@ -20,6 +20,9 @@
 
 [2.5 ) کاتلین با IntelliJ IDEA](./kotlin-with-intellij-idea/README.md)
 
+[2.6 ) خلاصه بخش دوم](./conventions-used-with-kotlin-and-summery/README.md)
+
+
 
 
 
