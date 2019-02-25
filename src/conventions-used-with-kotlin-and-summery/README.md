@@ -6,8 +6,10 @@
 
 </div>
 
-#### >> var HelloWorld   eshtebah
-#### >> var helloWorld  dorost
+```kotlin
+var HelloWorld // eshtebah
+var helloWorld // dorost
+```
 
 <div dir="rtl">
 
