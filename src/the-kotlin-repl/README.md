@@ -29,6 +29,6 @@
  
 </div>
 
-#### >>> fun hello(name: String){ print(name)}
+#### >>> fun hello(name: String){ print(name) }
 #### >>> hello(“Kotlin REPL”)
 #### Kotlin REPL
