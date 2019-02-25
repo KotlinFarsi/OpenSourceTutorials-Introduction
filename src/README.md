@@ -18,6 +18,8 @@
 
 [2.4 ) ساختار یک برنامه کاتلین](./the-structure-of-kotlin-application/README.md)
 
+[2.4 ) کاتلین با IntelliJ IDEA](./kotlin-with-intellij-idea/README.md)
+
 
 
 
