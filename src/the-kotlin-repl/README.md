@@ -9,7 +9,7 @@
 
 محیطی رو برامون بالا میاره که بهش Kotlin REPL میگیم  و مخفف Kotlin, Read Eval Print Loop هه که میتونیم بگیم یک محیط ساده تعاملی با کامپایلره و میشه با اون یک سری چیز هارو امتحان کنیم.همینطور که شما می بینین من یک سری کد اینجا مینویسم واین محیط از کامپایلر میخواد که این دستورات رو انجام بده و نتیجش رو پرینت کنه.
 
-:مثلا
+مثلا:
 
 <img src="./hello-world.png" />
 
@@ -29,6 +29,8 @@
  
 </div>
 
->>>fun hello(name: String){ print(name)}
->>>hello(“Kotlin REPL”)
-Kotlin REPL
+#### >>> fun hello(name: String){ print(name)}
+
+####>>> hello(“Kotlin REPL”)
+
+#### Kotlin REPL
