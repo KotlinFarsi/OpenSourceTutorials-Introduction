@@ -14,6 +14,8 @@
 
 [2.2 ) نصب کردن ابزارآلات](https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/tree/master/src/installing-the-tooling/README.md)
 
+[2.3 ) کاتلین REPL](./the-kotlin-repl/README.md)
+
 
 
 <بقیه فصل ها در حال تبدیل به فایل های Markdown است>
