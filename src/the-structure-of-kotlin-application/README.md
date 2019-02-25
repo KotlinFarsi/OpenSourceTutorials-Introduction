@@ -94,7 +94,7 @@ fun main(args: Array<String>) {
 
 و حالا تنها کاری که من باید انجام بدم اینه که دستور زیر رو وارد کنم:
 
-<div>
+</div>
 
 #### >>java –jar hello.jar
 #### Hello World!
