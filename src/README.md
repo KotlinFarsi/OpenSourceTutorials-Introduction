@@ -20,7 +20,7 @@
 
 [2.5 ) کاتلین با IntelliJ IDEA](./kotlin-with-intellij-idea/README.md)
 
-[2.6 ) خلاصه بخش دوم](./conventions-used-with-kotlin-and-summery/README.md)
+[2.6 ) خلاصه بخش دوم](./conventions-used-with-kotlin-and-summary/README.md)
 
 **3 - کد نویسی مقدماتی کاتلین**
 
@@ -38,7 +38,9 @@
 
 [4.1 ) توابع در کاتلین](./functions-in-kotlin/README.md)
 
-[4.2 ) توابع با پارامترهای پیشفرض و نامیده شده](./functions-with-default-and-named-parameters-in-kotlin/README.md)
+[4.2 ) تابع با پارامترهای پیشفرض و نامیده شده](./function-with-default-and-named-parameters-in-kotlin/README.md)
+
+[4.3 ) تابع با پرامترهای نامحدود و خلاصه بخش چهارم](./function-with-unlimited-parameters-in-kotlin-and-summary/README.md)
 
 
 
