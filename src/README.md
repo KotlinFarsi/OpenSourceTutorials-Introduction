@@ -26,6 +26,8 @@
 
 [3.1 ) تعریف متغیر در کاتلین](./declaring-variables-in-kotlin/README.md)
 
+[3.2 ) کار با Type های پایه ای](./working-with-basic-types-in-kotlin/README.md)
+
 
 
 
