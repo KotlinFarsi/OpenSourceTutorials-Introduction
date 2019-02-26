@@ -22,6 +22,10 @@
 
 [2.6 ) خلاصه بخش دوم](./conventions-used-with-kotlin-and-summery/README.md)
 
+**2 - کد نویسی مقدماتی کاتلین**
+
+[3.1 ) تعریف متغیر در کاتلین](./declaring-variables-in-kotlin/README.md)
+
 
 
 
