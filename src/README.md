@@ -32,6 +32,8 @@
 
 [3.4 ) عبارت های شرطی در کاتلین](./conditional-execution-with-if-and-when-in-kotlin/README.md)
 
+[3.5 ) اضافه کردن پگیج ها در کاتلین و خلاصه بخض سوم](./package-and-imports-in-kotlin-and-summary-of-kotlin-basic/README.md)
+
 
 
 
