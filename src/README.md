@@ -28,6 +28,8 @@
 
 [3.2 ) کار با Type های پایه ای](./working-with-basic-types-in-kotlin/README.md)
 
+[3.3 ) حلقه ها در کاتلین](./loops-and-ranges-in-kotlin/README.md)
+
 
 
 
