@@ -22,7 +22,7 @@
 
 [2.6 ) خلاصه بخش دوم](./conventions-used-with-kotlin-and-summery/README.md)
 
-**2 - کد نویسی مقدماتی کاتلین**
+**3 - کد نویسی مقدماتی کاتلین**
 
 [3.1 ) تعریف متغیر در کاتلین](./declaring-variables-in-kotlin/README.md)
 
@@ -33,6 +33,10 @@
 [3.4 ) عبارت های شرطی در کاتلین](./conditional-execution-with-if-and-when-in-kotlin/README.md)
 
 [3.5 ) اضافه کردن پگیج ها در کاتلین و خلاصه بخض سوم](./package-and-imports-in-kotlin-and-summary-of-kotlin-basic/README.md)
+
+**4 - توابع**
+
+[4.1 ) توابع در کاتلین](./functions-in-kotlin/README.md)
 
 
 
