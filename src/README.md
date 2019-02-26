@@ -38,6 +38,7 @@
 
 [4.1 ) توابع در کاتلین](./functions-in-kotlin/README.md)
 
+[4.2 ) توابع با پارامترهای پیشفرض و نامیده شده](./functions-with-default-and-named-parameters-in-kotlin/README.md)
 
 
 
