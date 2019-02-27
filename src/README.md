@@ -44,7 +44,7 @@
 
 **5 - کلاس ها**
 
-[4.1 ) کلاس ها در کاتلین](./classes-in-kotlin/README.md)
+[5.1 ) کلاس ها در کاتلین](./classes-in-kotlin/README.md)
 
 
 
