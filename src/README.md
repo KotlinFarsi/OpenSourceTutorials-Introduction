@@ -58,7 +58,11 @@
 
 **6 - ارث بری**
 
-[5.4 ) ارث بری در کاتلین](./inheritance-in-kotlin/README.md)
+[6.1 ) ارث بری در کاتلین](./inheritance-in-kotlin/README.md)
+
+[6.1 ) کارکردن با کلاس های abstract در کاتلین](./working-with-abstract-classes-in-kotlin/README.md)
+
+
 
 
 
