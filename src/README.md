@@ -54,7 +54,8 @@
 
 [5.5 ) کلاس های enum در کاتلین](./enum-classes-in-kotlin/README.md)
 
-5.6 ) [Object ها در کاتلین و خلاصه بخش پنج](./objects-in-kotlin-and-summary/README.md)
+[5.6 ) Object ها در کاتلین و خلاصه بخش پنج](./objects-in-kotlin-and-summary/README.md)
+
 
 
 
