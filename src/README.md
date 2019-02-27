@@ -48,7 +48,7 @@
 
 [5.2 ) توابعِ عضو در کاتلین](./member-functions-in-kotlin/README.md)
 
-[5.3 ) ... در کاتلین](./visibility-modifiers-in-kotlin/README.md)
+[5.3 ) visibility modifier ها در کاتلین](./visibility-modifiers-in-kotlin/README.md)
 
 
 

@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# ترجمه سخته
+#  visibility modifier ها در کاتلین
 
 اگه تا الان متوجه باشید تموم کد هایی که تا الان نوشیتم از هیچ گونه visibility-modifier ای استفاده نکردیم. و در واقع در کاتلین این قرارداد هست که visibility-modifier پیش فرض public است.
 4 نوع visibility-modifier توی کاتلین داریم
