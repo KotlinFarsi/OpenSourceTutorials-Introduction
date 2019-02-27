@@ -42,6 +42,7 @@ fun main(args: Array<String>) {
     println(Global.PI)
 }
 ```
+<div dir="rtl">
 
 تفاوتی که این دو دارن اینه که عبارت ها سریعا ساخته میشن! خب البته درمورد استفاده های Object بعدا بیشتر صحبت میکنیم.
 
@@ -58,3 +59,6 @@ fun main(args: Array<String>) {
 5-	با enum ها اشنا شدیم
 
 6-	Object ها یک روش خیلی ساده برای ساختن singleton ها هستند
+
+
+</div>
