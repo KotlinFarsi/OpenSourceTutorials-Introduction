@@ -56,6 +56,10 @@
 
 [5.6 ) Object ها در کاتلین و خلاصه بخش پنج](./objects-in-kotlin-and-summary/README.md)
 
+**6 - ارث بری**
+
+[5.4 ) ارث بری در کاتلین](./inheritance-in-kotlin/README.md)
+
 
 
 
