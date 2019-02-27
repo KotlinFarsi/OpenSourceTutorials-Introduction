@@ -42,6 +42,12 @@
 
 [4.3 ) تابع با پرامترهای نامحدود و خلاصه بخش چهارم](./function-with-unlimited-parameters-in-kotlin-and-summary/README.md)
 
+**5 - کلاس ها**
+
+[4.1 ) کلاس ها در کاتلین](./classes-in-kotlin/README.md)
+
+
+
 
 
 
