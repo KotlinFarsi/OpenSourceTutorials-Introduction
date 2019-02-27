@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# توابعِ عضو در کاتلین
+# فهرست
 
 **1 - مقدمه**
 
@@ -47,6 +47,8 @@
 [5.1 ) کلاس ها در کاتلین](./classes-in-kotlin/README.md)
 
 [5.2 ) توابعِ عضو در کاتلین](./member-functions-in-kotlin/README.md)
+
+[5.3 ) ... در کاتلین](./visibility-modifiers-in-kotlin/README.md)
 
 
 
