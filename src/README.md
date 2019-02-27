@@ -64,11 +64,11 @@
 
 [6.3 ) کلاس های interface در کاتلین](./interfaces-in-kotlin/README.md)
 
-[6.4 ) نگاه کوتاه به generic ها و خلاصه بخش 6](./a-brief-look-at-generics-in-kotlin-and-summary/README.md)
+[6.4 ) نگاه کوتاه به generic ها و خلاصه بخش شش](./a-brief-look-at-generics-in-kotlin-and-summary/README.md)
 
 **7 - کارکردن با Null ها**
 
-[7.1 ) null safety و خلاصه بخش 7](./null-safety-and-summary/README.md)
+[7.1 ) null safety و خلاصه بخش هفت](./null-safety-and-summary/README.md)
 
 **8 - نکات اضافه**
 
@@ -81,6 +81,8 @@
 [8.4 ) کار کردن با exception ها](./working-with-exceptions/README.md)
 
 [8.5 ) constant ها](./declaring-constants/README.md)
+
+[8.6 ) annotation ها در کاتلین و خلاصه بخش هشت](./annotations-in-kotlin-and-summary/README.md)
 
 
 
