@@ -50,6 +50,9 @@
 
 [5.3 ) visibility modifier ها در کاتلین](./visibility-modifiers-in-kotlin/README.md)
 
+[5.4 ) کلاس های دیتا در کاتلین](./kotlin-data-classes/README.md)
+
+
 
 
 
