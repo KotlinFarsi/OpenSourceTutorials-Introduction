@@ -66,9 +66,9 @@
 
 [6.4 ) نگاه کوتاه به generic ها و خلاصه بخش 6](./a-brief-look-at-generics-in-kotlin-and-summary/README.md)
 
+**7 - کارکردن با Null ها**
 
-
-
+[7.1 ) null safety و خلاصه بخش 7](./null-safety-and-summary/README.md)
 
 
 
