@@ -1,9 +1,9 @@
 <div dir="rtl">
 
 #  visibility modifier ها در کاتلین
+اگه دقت کرده باشین در تموم کد هایی که تا الان نوشیتم از هیچ گونه visibility-modifier ای استفاده نکردیم. و در واقع در کاتلین این قرارداد هست که visibility-modifier پیش فرض public است.
 
-اگه تا الان متوجه باشید تموم کد هایی که تا الان نوشیتم از هیچ گونه visibility-modifier ای استفاده نکردیم. و در واقع در کاتلین این قرارداد هست که visibility-modifier پیش فرض public است.
-4 نوع visibility-modifier توی کاتلین داریم
+توی کاتلین 4 نوع visibility-modifier داریم:
 -	Public که پیشفرضمونه و از همه جا قابل دسترسیه
 برای Top-Level-Declaration ها ( منظور تموم تعریف هایی که به صورت Top-level انجام میشه، مثلا Top-level-function ها )
 -	Private که تنها از داخل همون فایلی که تعریف شده قابل دسترسیه
