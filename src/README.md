@@ -52,6 +52,8 @@
 
 [5.4 ) کلاس های دیتا در کاتلین](./kotlin-data-classes/README.md)
 
+[5.5 ) کلاس های enum در کاتلین](./enum-classes-in-kotlin/README.md)
+
 
 
 
