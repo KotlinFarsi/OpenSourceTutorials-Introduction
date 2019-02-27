@@ -78,6 +78,9 @@
 
 [8.3 ) deconstructing values](./deconstructing-values/README.md)
 
+[8.4 ) کار کردن با exception ها](./working-with-exceptions/README.md)
+
+
 
 
 

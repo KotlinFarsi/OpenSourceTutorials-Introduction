@@ -32,6 +32,7 @@ fun main(args: Array<String>) {
 fun capitalAndPopulation(country: String): Pair<String,Long>{
     return Pair("Madrid",2000000)
 }
+
 fun main(args: Array<String>) {
     val (capital,population) = capitalAndPopulation("Spain")
 
