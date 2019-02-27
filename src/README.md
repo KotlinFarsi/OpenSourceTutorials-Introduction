@@ -80,6 +80,9 @@
 
 [8.4 ) کار کردن با exception ها](./working-with-exceptions/README.md)
 
+[8.5 ) constant ها](./declaring-constants/README.md)
+
+
 
 
 
