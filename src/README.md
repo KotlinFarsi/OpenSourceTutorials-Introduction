@@ -70,6 +70,10 @@
 
 [7.1 ) null safety و خلاصه بخش 7](./null-safety-and-summary/README.md)
 
+**8 - نکات اضافه**
+
+[8.1 ) type casting در کاتلین](./type-casting-in-kotlin/README.md)
+
 
 
 
