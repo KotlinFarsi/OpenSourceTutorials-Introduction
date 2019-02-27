@@ -64,6 +64,9 @@
 
 [6.3 ) کلاس های interface در کاتلین](./interfaces-in-kotlin/README.md)
 
+[6.4 ) نگاه کوتاه به generic ها و خلاصه بخش 6](./a-brief-look-at-generics-in-kotlin-and-summary/README.md)
+
+
 
 
 
