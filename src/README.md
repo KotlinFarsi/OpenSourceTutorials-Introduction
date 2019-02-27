@@ -76,6 +76,9 @@
 
 [8.2 ) چندتایی ها (Tuples)](./tuples/README.md)
 
+[8.3 ) deconstructing values](./deconstructing-values/README.md)
+
+
 
 
 
