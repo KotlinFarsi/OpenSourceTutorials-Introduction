@@ -74,6 +74,9 @@
 
 [8.1 ) type casting در کاتلین](./type-casting-in-kotlin/README.md)
 
+[8.2 ) چندتایی ها (Tuples)](./tuples/README.md)
+
+
 
 
 
