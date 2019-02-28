@@ -94,6 +94,12 @@
 
 [9.4 ) عبارت های الحاقی در کاتلین و خلاصه بخش نهم](./extension-functions-in-kotlin-and-summary/README.md)
 
+**10 - قابلیت همکاری و Interoperability**
+
+[10.1 ) همکاری با جاوا](./interoperability-with-java/README.md)
+
+
+
 
 
 
