@@ -108,7 +108,7 @@
 
 [10.6 ) توابع الحاقی کاتلین از جاوا](./extension-functions-from-java/README.md)
 
-[10.6 ) همکاری با جاوا 7 و 8 و خلاصه بخش دهم](./interop-with-java-7-and-8-and-summary/README.md)
+[10.7 ) همکاری با جاوا 7 و 8 و خلاصه بخش دهم](./interop-with-java-7-and-8-and-summary/README.md)
 
 
 
