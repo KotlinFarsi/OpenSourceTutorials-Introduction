@@ -106,6 +106,8 @@
 
 [10.5 ) توابع و خصیصه های درجه اول](./top-level-functions-and-properties-in-kotlin/README.md)
 
+[10.6 ) توابع الحاقی کاتلین از جاوا](./extension-functions-from-java/README.md)
+
 
 
 
