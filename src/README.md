@@ -92,6 +92,9 @@
 
 [9.3 ) closure ها در کاتلین](./closures-in-kotlin/README.md)
 
+[9.4 ) عبارت های الحاقی در کاتلین و خلاصه بخش نهم](./extension-functions-in-kotlin-and-summary/README.md)
+
+
 
 
 
