@@ -110,6 +110,10 @@
 
 [10.7 ) همکاری با جاوا 7 و 8 و خلاصه بخش دهم](./interop-with-java-7-and-8-and-summary/README.md)
 
+**11 - کتابخانه استاندارد**
+
+[10.7 ) کتابخانه استاندارد کاتلین و کارکردن با کالکشن ها در کاتلین](./kotlin-standard-library-and-working-with-collections-in-kotlin/README.md)
+
 
 
 
