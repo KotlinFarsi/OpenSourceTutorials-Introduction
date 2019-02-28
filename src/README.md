@@ -112,7 +112,7 @@
 
 **11 - کتابخانه استاندارد**
 
-[10.7 ) کتابخانه استاندارد کاتلین و کارکردن با کالکشن ها در کاتلین](./kotlin-standard-library-and-working-with-collections-in-kotlin/README.md)
+[11.1 ) کتابخانه استاندارد کاتلین و کارکردن با کالکشن ها در کاتلین](./kotlin-standard-library-and-working-with-collections-in-kotlin/README.md)
 
 
 
