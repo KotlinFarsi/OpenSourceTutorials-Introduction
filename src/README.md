@@ -98,6 +98,8 @@
 
 [10.1 ) همکاری با جاوا](./interoperability-with-java/README.md)
 
+[10.2 ) صحبت کردن با جاوا از کاتلین](./talking-to-java-from-kotlin/README.md)
+
 
 
 
