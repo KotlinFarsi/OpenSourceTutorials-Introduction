@@ -84,14 +84,9 @@
 
 [8.6 ) annotation ها در کاتلین و خلاصه بخش هشت](./annotations-in-kotlin-and-summary/README.md)
 
+**9 - نگاه functionalای**
 
-
-
-
-
-
-
-
+[9.1 ) توابع Higher-Order](./higher-order-functions-in-kotlin/README.md)
 
 
 
