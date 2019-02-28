@@ -90,6 +90,8 @@
 
 [9.2 ) عبارت های لاندا در کاتلین](./lambda-expressions-in-kotlin/README.md)
 
+[9.3 ) closure ها در کاتلین](./closures-in-kotlin/README.md)
+
 
 
 
