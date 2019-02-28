@@ -114,6 +114,8 @@
 
 [11.1 ) کتابخانه استاندارد کاتلین و کارکردن با کالکشن ها در کاتلین](./kotlin-standard-library-and-working-with-collections-in-kotlin/README.md)
 
+[11.2 ) مرور کوتاه بر روی filtering و mapping و flatmapping در کاتلین](./filtering-mapping-and-flatmapping-in-kotlin/README.md)
+
 
 
 
