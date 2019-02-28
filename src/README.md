@@ -104,6 +104,8 @@
 
 [10.4 ) صحبت کردن با کاتلین از جاوا](./talking-to-kotlin-from-java/README.md)
 
+[10.5 ) توابع و خصیصه های درجه اول](./top-level-functions-and-properties-in-kotlin/README.md)
+
 
 
 
