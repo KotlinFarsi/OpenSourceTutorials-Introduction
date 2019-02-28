@@ -88,6 +88,9 @@
 
 [9.1 ) توابع Higher-Order](./higher-order-functions-in-kotlin/README.md)
 
+[9.2 ) عبارت های لاندا در کاتلین](./lambda-expressions-in-kotlin/README.md)
+
+
 
 
 
