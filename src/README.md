@@ -116,11 +116,3 @@
 
 [11.2 ) مرور کوتاه بر روی filtering و mapping و flatmapping در کاتلین](./filtering-mapping-and-flatmapping-in-kotlin/README.md)
 
-
-
-
-
-
-
-
-<بقیه فصل ها در حال تبدیل به فایل های Markdown است>
