@@ -6,7 +6,8 @@
 
 </div>
 
-```kotlin
+<div class="highlight highlight-source-kotlin">
+<pre class="kotlin-code" data-target-platform="jvm" theme="idea">
 class Employee
 
 interface EmployeeRepository{
@@ -15,7 +16,8 @@ interface EmployeeRepository{
     }
     fun getById(id : Int) : Employee
 }
-```
+</pre>
+</div>
 
 <div dir="rtl">
 
