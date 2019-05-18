@@ -17,6 +17,6 @@ Full course and another kotlin tutorials are accessible for free in KotlinFarsi.
  - make your changes
  - make a pull request
 
-## How to be an Writer on KotlinFarsi
+## How to be Writer on KotlinFarsi
 
- for being a writer or a teacher in KotlinFarsi website you should first send us your resume to this link and then we will review and accept your memebrship.
+ for being a writer or a teacher in KotlinFarsi website just ask me on twitter, and we will be happy to join our community
