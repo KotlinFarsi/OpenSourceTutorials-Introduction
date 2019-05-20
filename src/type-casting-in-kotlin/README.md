@@ -1,15 +1,6 @@
----
-layout: tutorial
-title: "type casting در کاتلین"
-category: introduction
-permalink: /tutorials/introduction/type-casting-in-kotlin/
-editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/edit/master/src/type-casting-in-kotlin/README.md
----
+<div dir="rtl">
 
-
-<div dir="rtl" markdown="1">
-
-
+# type casting در کاتلین
 
     پیشنهاد میشه این قسمت رو بر روی IntellJ IDEA امتحان کنید
     
@@ -28,7 +19,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 و خب گفتیم اگه متغیری بتونه مقدار null رو بگیره، باید قبل استفاده ازش چک بشه، و چک کردنش رو هم با "?" انجام میدادیم. خب حالا اگه بیاین قبل استفاده از nullMessage یک مقدار بهش بدین
 
@@ -42,7 +33,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 کامپایلر یه اخطار کوچولو بهمون میده و میگه : "نیازی نیست متغیر غیر null رو چک کنیم".یعنی میتونیم "?" رو برداریم.
 
@@ -56,7 +47,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 ولی خب تا اون رو برمیداریم اون متغیر یک بک گراند سبز میگیره به خودش و اگه بریم و موس رو روش نگه داریم متوجه میشیم که نوشته "Smart cast to kotlin.String". این به چه معنیه؟ بهتون نشون میدم.
 
@@ -86,7 +77,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 خب تا اینجا کار خاصی نکردیم.دوتا کلاس ساختیم به نام های Employee و Contactor که از کلاس Person ارث بری میشن و همچنین داخل Employee یک متد ساختیم. خب حالا بعدش اومدیم و یک تابع داخل فایلمون ساختیم به نام hasVacations که توش یک شرط داره که البته بدنه شرط رو هنوز ننوشتیم، ولی خب میدونیم که اگر obj یک شی از نوع Employee بود داخل if میره. خب اگه بریم داخل if و بخوایم بنویسم obj.vacationDays متوجه میشیم که IntelliJ برامون ادامه اش رو مینویسه! توجه کنین که obj از نوع کلاس Person بود که تابعی به اون اسم نداره! اگه کد رو کامل بنویسیم متوجه میشیم که دوباره همون حالت پیش میاد، دوباره مینویسه "Smart casting to Employee" .
 
@@ -115,7 +106,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 یعنی کامپایلر میاد میگه " من متوجه میشم که زمانی این کد اجرا میشه که obj یک Employee باشه و نیازی نیست که مثل جاوا اینجوری (Employee)obj.vacationDays(20) بنویسیمش
 
@@ -133,7 +124,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 درواقع کامپایلر اینجا میگه "من میدونم این متغیر رو جوری تعریف کردی که میتونه null باشه، ولی خب قبل چک کردنش بهش مقدار دادی، پس من خودم به یک رشته(غیر قابل null شدن) تبدیلش میکنم که نیازی نداشته باشه که چک بشه!"
 
@@ -151,15 +142,13 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 اینجا گفتیم که میدونیم input از جنس Any هستش، ولی اینجا میخوایم به String کستش کنیم و طولش رو برام بگیریم. تنها کاری که کردیم اون وسط این بود که از کلیدواژه as استفاده کردیم.
 
 البته خب قبل اجرا هیچ مشکلی نداشتیم و هیچ اروری هم نبود. ولی خب وقتی کد رو اجرا میکنیم به ارور میخوریم
 
-<p style="width: calc(100% + 60px);">
 <img src="./result-1.PNG" />
-</p>
 
 و اونم به این دلیله که اگه یادتون باشه گفتیم هیچ گونه کستینگ به صورت لفظی در کاتلین نداریم و اگه بخوایم یک متغیر رو کست کنیم باید از توابعش استفاده کنیم.
 
@@ -177,7 +166,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 به این معنی که من این دفعه "تلاش" میکنم که input رو به String تبدیل کنم.
 
