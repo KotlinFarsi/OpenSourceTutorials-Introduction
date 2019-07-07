@@ -4,7 +4,7 @@
 
 
 خب به قسمتی رسیدیم که دقیقا به بخش خاصی تعلق ندارن ولی یکی از ابزاری که میتونه خیلی کمکمون کنه.
-ها به ما این امکان رو میدن که بتونیم یک اسم جایگزین برای کلاس هایی که میخوایم استفاده کنیم بزاریم.typealias 
+typealias ها به ما این امکان رو میدن که بتونیم یک اسم جایگزین برای کلاس هایی که میخوایم استفاده کنیم بزاریم. 
 
 
 مثلا میتونیم اسم یکی از کلاس هامون رو کوتاه کنیم و از این به بعد از اون اسم جایگزین استفاده کنیم
@@ -29,5 +29,35 @@ typealias FileTable = MutableMap<String, MutableList<File>>
 ```
 
 <div dir="rtl">
-حتی میشه از اونا برای اسم جایگزین توی inner class ها استفاده کرد
+حتی میشه از اونا برای اسم جایگزین توی inner class ها استفاده کرد:
 </div>
+
+
+```kotlin
+class Food {
+    inner class Pizza{
+        //Codes...
+    }
+}
+
+typealias PizzaInnerFood = Food.Pizza
+```
+
+<div dir="rtl">
+نکته ای که باید بهش دقت کنید اینه که typealias ها یک کلاس یا تایپ جدیدی رو ارائه نمیدن بلکه فقط یه اسم جایگزین رو برای یک کلاس ارائه میدن.
+</div>
+
+
+```kotlin
+typealias ArrName = ArrayList<String>;
+
+MainActivity : AppCompatActivity(){
+   override fun onCreate(savedInstanceState: Bundle?) {
+       super.onCreate(savedInstanceState)
+        val names = ArrName()
+        names.add("Ali")
+        names.add("Kamran")
+        names.add("Sara")
+   }
+}
+```
