@@ -28,7 +28,6 @@ MutableMap<String , MutableList<File>>
 typealias FileTable = MutableMap<String, MutableList<File>>
 ```
 
-
 <div dir="rtl">
-
+حتی میشه از اونا برای اسم جایگزین توی inner class ها استفاده کرد
 </div>
