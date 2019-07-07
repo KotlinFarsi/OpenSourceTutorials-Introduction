@@ -82,7 +82,9 @@
 
 [8.5 ) constant ها](./declaring-constants/README.md)
 
-[8.6 ) annotation ها در کاتلین و خلاصه بخش هشت](./annotations-in-kotlin-and-summary/README.md)
+[8.6 ) typealias ها](./typealias-in-kotlin/README.md)
+
+[8.7 ) annotation ها در کاتلین و خلاصه بخش هشت](./annotations-in-kotlin-and-summary/README.md)
 
 **9 - نگاه functionalای**
 
